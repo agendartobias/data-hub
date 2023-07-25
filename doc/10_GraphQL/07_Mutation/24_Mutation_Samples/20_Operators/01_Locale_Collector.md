@@ -24,3 +24,7 @@ mutation {
   }
 }
 ```
+
+To get this working you must first add Locale Collector in your Mutation Schema definition to Available Fields
+
+![Car_locale_collector](https://github.com/pimcore/data-hub/assets/28923508/2d5c37af-150e-46fb-863a-1bcf1cd929dc)
